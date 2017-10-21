@@ -3,7 +3,8 @@
 ##  Ссылки
 
 ### Посмотреть на чат
-https://yandex.ru/search/touch/?text=яндекс%20такси&noredirect=1
+
+Запрос [яндекс такси](https://yandex.ru/search/touch/?text=яндекс%20такси&noredirect=1)
 
 ### TypeScript
 
