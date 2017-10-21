@@ -10,6 +10,10 @@
 
 https://www.typescriptlang.org/
 
+### Яндекс.Коннект
+
+https://connect.yandex.ru/
+
 ### Библиотеки
 
 * react https://reactjs.org/
